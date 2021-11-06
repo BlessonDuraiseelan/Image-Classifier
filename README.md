@@ -8,7 +8,7 @@ Then the model is used to predict the image into a category which is defined.
 Here we are using images around 4376 images of Airplane ,Car, Cat ,Dog , Flower ,Fruit , Motorbike ,Person to train a model and around 1300 images to test the model.
 Then we use the data to train the CNN model which is built by having layers like Convolution,MaxPooling ,Flatten and  Dense and save it as a pickle file. Then the pickle file is imported that is used to predict the image which is provided by the user.
 
-#Deployment
+# Deployment
 Then GUI was designed by the help of HTML/CSS and  bulit upon Flask Framework 
 The app was deployed in web with the help of Heroku.
 

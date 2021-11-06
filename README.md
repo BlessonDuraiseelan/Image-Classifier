@@ -12,7 +12,7 @@ Then we use the data to train the CNN model which is built by having layers like
 Then GUI was designed by the help of HTML/CSS and  bulit upon Flask Framework 
 The app was deployed in web with the help of Heroku.
 
-![image](https://user-images.githubusercontent.com/76935226/140600055-f9068603-15d1-487b-8460-e9cd70a5ba45.png)![image](https://user-images.githubusercontent.com/76935226/140600118-66691128-fb3f-4eed-abd6-dec89bb5b727.png)
+![image](https://user-images.githubusercontent.com/76935226/140600055-f9068603-15d1-487b-8460-e9cd70a5ba45.png)![kisspng-flask-python-web-framework-bottle-microframework-django-5b3d0ba62504c0 3512153115307273341516](https://user-images.githubusercontent.com/76935226/140600177-0e8ffdf9-0f22-436d-b222-3810de8444e0.jpg)
 
 
 

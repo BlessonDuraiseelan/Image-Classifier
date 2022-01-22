@@ -16,7 +16,9 @@ The app was deployed in web with the help of Heroku.
 
 ![image](https://user-images.githubusercontent.com/76935226/140600298-11b355f2-f0f1-453a-a860-a984817597b5.png)
 
-![Heroku](https://user-images.githubusercontent.com/76935226/150635269-942c1bb7-f006-4e79-91d7-3894f9c44086.png)
+![Heroku](https://user-images.githubusercontent.com/76935226/150635269-942c1bb7-f006-4e79-91d7-3894f9c44086.png
+
+![0_py5zo1OGahLBVM-o](https://user-images.githubusercontent.com/76935226/150635279-2fe7e103-ac79-4f91-a427-bf47508bd6c6.gif)
 
 
 # Check out the App

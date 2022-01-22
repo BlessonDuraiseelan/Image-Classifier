@@ -13,11 +13,8 @@ Then GUI was designed by the help of HTML/CSS and  bulit upon Flask Framework
 The app was deployed in web with the help of Heroku.
 
 ![kisspng-flask-python-web-framework-bottle-microframework-django-5b3d0ba62504c0 3512153115307273341516](https://user-images.githubusercontent.com/76935226/140600271-dc46a85c-1f1e-406e-9231-4e8dd43cdf8f.jpg)
-
 ![image](https://user-images.githubusercontent.com/76935226/140600298-11b355f2-f0f1-453a-a860-a984817597b5.png)
-
 ![Heroku](https://user-images.githubusercontent.com/76935226/150635269-942c1bb7-f006-4e79-91d7-3894f9c44086.png)
-
 ![0_py5zo1OGahLBVM-o](https://user-images.githubusercontent.com/76935226/150635279-2fe7e103-ac79-4f91-a427-bf47508bd6c6.gif)
 
 

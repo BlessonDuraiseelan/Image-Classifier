@@ -1,12 +1,16 @@
 # Natural-Image-Classifier
-This is Deep Learning Model which is used to classify Image to categories.
-We have taken images from various categories such as Airplane ,Car, Cat ,Dog , Flower ,Fruit , Motorbike ,Person and trained a CNN Model.
-Then the model is used to predict the image into a category which is defined.
+This is a Deep Learning Python Web Application that will be used to identify the category of the image which is uploaded by the user.
+The app can predict images belonging to the categories such as Airplane ,Car, Cat ,Dog , Flower ,Fruit , Motorbike and Person.
+The web app is based on the functioning of Convolutional Neural Network
 
 # Dataset and Modelling
 
-Here we are using images around 4376 images of Airplane ,Car, Cat ,Dog , Flower ,Fruit , Motorbike ,Person to train a model and around 1300 images to test the model.
-Then we use the data to train the CNN model which is built by having layers like Convolution,MaxPooling ,Flatten and  Dense and save it as a pickle file. Then the pickle file is imported that is used to predict the image which is provided by the user.
+We will be building a model that should be able to classify the image as Airplane ,Car, Cat ,Dog , Flower ,Fruit , Motorbike ,Person.
+The model needs to be trained on the images of the above mentioned categories in order to learn the features of each category's image.
+Here we are using images for the purpose of training  around 4376 images of Airplane ,Car, Cat ,Dog , Flower ,Fruit , Motorbike ,Person and around 1300 images as  test data for  the model to check its performance.
+
+Then we use the data to train the CNN model which is built by having layers like Convolution,MaxPooling ,Flatten and  Dense. We train this model on 30 epochs and then check for the accuracy and along with that plot the graph to check its performance.
+After the computation and metrics we will save the model  as a pickle file. The Then the pickle file is imported that is used to predict the image which is provided by the user.
 
 # Deployment
 Then GUI was designed by the help of HTML/CSS and  bulit upon Flask Framework 

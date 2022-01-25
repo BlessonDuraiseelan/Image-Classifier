@@ -15,7 +15,8 @@ We train this model on 30 epochs and then check for the accuracy and along with 
 After the computation and metrics we will save the model  as a pickle file. The pickle will be useful when Flask Framework is used in order to predict which category the image uploaded by the user will belong to.
 
 # Deployment
-Then GUI was designed by the help of HTML/CSS and  bulit upon Flask Framework 
+Then GUI was designed by the help of HTML/CSS and  bulit upon Flask Framework.
+Programming Language used was Python.
 The app was deployed in web with the help of Heroku.
 
 ![kisspng-flask-python-web-framework-bottle-microframework-django-5b3d0ba62504c0 3512153115307273341516](https://user-images.githubusercontent.com/76935226/140600271-dc46a85c-1f1e-406e-9231-4e8dd43cdf8f.jpg)

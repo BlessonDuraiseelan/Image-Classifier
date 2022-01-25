@@ -11,8 +11,9 @@ Here we are using images for the purpose of training  around 4376 images of Airp
 
 Here we will be using Convolution Neural network where the model we will be building will have Convolution layers to extract features , Max Pooling layer to reduce spatial size,Batch Normalization layer and Dense layer to avoid overfitting.
 
-We train this model on 30 epochs and then check for the accuracy and along with that plot the graph to check its performance.
-After the computation and metrics we will save the model  as a pickle file. The pickle will be useful when Flask Framework is used in order to predict which category the image uploaded by the user will belong to.
+We train this model on 30 epochs and then check for the accuracy and along with that plot the graph to check its performance. The model is achieving 87% accuracy on test samples.
+
+After the computation and metrics we will save the model as a pickle file. The pickle will be useful when Flask Framework is used in order to predict which category the image uploaded by the user will belong to.
 
 # Deployment
 Then GUI was designed by the help of HTML/CSS and  bulit upon Flask Framework.

@@ -1,7 +1,7 @@
 # Natural-Image-Classifier
 This is a Deep Learning Python Web Application that will be used to identify the category of the image which is uploaded by the user.
 The app can predict images belonging to the categories such as Airplane ,Car, Cat ,Dog , Flower ,Fruit , Motorbike and Person.
-The web app is based on the functioning of Convolutional Neural Network
+The web app is built using Flask Framework ; deployed in cloud using Heroku and is based on the working of Convolutional Neural Network
 
 # Dataset and Modelling
 
